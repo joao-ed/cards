@@ -1,4 +1,4 @@
-# Cards
+# Cards :spades: :hearts: :clubs: :diamonds: :black_joker:
 
 **TODO: Add description**
 
